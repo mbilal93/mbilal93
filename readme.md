@@ -1,5 +1,5 @@
-<h1 align="center">Hey there👋, I'm Muhammad Bilal</h1>
-<h3 align="center">A passionate web developer based in Pakistan with over 8 years of experience, dedicated to crafting solid and scalable solutions. My hobby is to write high quality code that follows the best industry practices and eager take new challenges with opportunities to grow in my career.</h3>
+<h1 align="left">Hey there👋, I'm Muhammad Bilal</h1>
+<h3 align="left">A passionate web developer based in Pakistan with over 8 years of experience, dedicated to crafting solid and scalable solutions. My hobby is to write high quality code that follows the best industry practices and eager take new challenges with opportunities to grow in my career.</h3>
 
 - 🔭 I’m currently working as a full-time employee **in various projects**
 
